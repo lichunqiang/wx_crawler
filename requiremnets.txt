@@ -1,1 +1,3 @@
 flask
+redis
+scrapy >=1.0
